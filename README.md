@@ -1,11 +1,13 @@
-<h1 align="center">
-    <img alt="Calculadora React" title="Calculadora REACT" src="https://github.com/eujonas/Calculadora_React/blob/main/public/calculadora.png" />
-</h1>
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
   
+<h1 align="center">
+Calculadora REACT
+    <img alt="Calculadora React" src="https://github.com/eujonas/Calculadora_React/blob/main/public/calculadora.png" />
+</h1>
+
 </p>
 
 <br>
