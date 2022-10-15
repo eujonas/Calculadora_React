@@ -4,7 +4,7 @@
   <a href="#memo-licença">Licença</a>
   
 <h1 align="center">
-Calculadora REACT
+Projeto Calculadora
     <img alt="Calculadora React" src="https://github.com/eujonas/Calculadora_React/blob/main/public/calculadora.png" />
 </h1>
 
@@ -19,8 +19,6 @@ Calculadora REACT
 - [JavaScript](#)
 
 ## 💻 Demo
-
-Acesse a demo do site através deste link:
 
 Esta é uma aplicação de uma Calculadora, desenvolvida em React JS.
 ## 📝 Licença
